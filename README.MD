@@ -56,9 +56,3 @@ To run the project, follow these steps:
 Feel free to modify and explore the game to suit your needs.
 
 Enjoy playing!
-
-└── src
-    ├── entities.py
-    ├── game.py
-    ├── main.py
-    └── settings.py
